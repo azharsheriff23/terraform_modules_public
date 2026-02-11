@@ -1,0 +1,9 @@
+variable "vpc_block" {}
+variable "vpc_name" {}
+variable "sub_block1" {}
+variable "iplaunch" {}
+variable "sublocation1" {}
+variable "sub1_name" {}
+variable "ig_name" {}
+variable "everyip" {}
+variable "route_name" {}
